@@ -4,9 +4,7 @@
 <a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" height='18px'/></a>
 <a href='https://peerlist.io/jugal'><img alt="kaggle" src="https://peerlist.io/images/peerlistlogofooter.svg" height='18px'/></a>
 
-I am a full-stack developer. i've previously worked as an frontend intern at [antstack.io](https://antstack.io). i've also build several [projects](./README.md#🛠️-my-projects) as proof of work. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
-<br/>
-<br/>
+I am a full-stack developer. i've previously worked as an frontend intern at [antstack.io](https://antstack.io). i've also build several [projects](#🛠️-my-projects) as proof of work. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
 ### 🧐 More About Me:
 
@@ -37,13 +35,35 @@ I am a full-stack developer. i've previously worked as an frontend intern at [an
 <br />
 <br />
 
-### 📊 Github Stats
+### 🛠️ My Projects
 
-<a href='https://github.com/jugalkpatel/github-stats-transparent'>
-  
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=jugalkpatel&count_private=true&show_icons=true&theme=github_dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jugalkpatel&layout=compact&theme=github_dark)
-</a>
+- #### Rices [<u>(live)</u>](https://rices-media.netlify.app/popular)
+
+  Rices is a forum-based social media application that helps you build communities, and share ideas, and interests.([<u>source code</u>](https://github.com/jugalkpatel/Social-Media/tree/development))
+
+  TechStack - Next.js, GraphQL(Apollo client), graphql-codegen, TypeScript, mantine, Prisma, PostgreSQL, GraphQL Nexus, Apollo-Server, Express, Typescript
+
+- #### Liquiz [<u>(live)</u>](https://liquiz.netlify.app/)
+
+  Rices is a forum-based social media application that helps you build communities, and share ideas, and interests.([<u>source code</u>](https://github.com/jugalkpatel/Component_Library/tree/development))
+
+  TechStack - React, Typescript, Styled-components, formik, Node, Expess, Mongoose ODM, MongoDB
+
+- #### TuxTV [<u>(live)</u>](https://tuxtv.netlify.app/)
+
+  Tux TV is an full-stack video-library app that contains video related to linux, vim, distors etc.([<u>source code</u>](https://github.com/jugalkpatel/Tux-TV/tree/development--frontend))
+
+  TechStack - React, JavaScript, HTML, CSS, Node, Expess, Mongoose ODM, MongoDB
+
+- #### Verse [<u>(live)</u>](https://gpuverse.netlify.app/)
+
+  Verse is an e-commerce app for selling GPUs.([<u>source code</u>](https://github.com/jugalkpatel/E-commerce/tree/development--frontend))
+
+  TechStack - React, JavaScript, HTML, CSS, Node, Expess, Mongoose ODM, MongoDB
+
+- #### Satori UI [<u>(live)</u>](https://satori-ui.netlify.app)
+
+  Component Library for personal projects built with html, css, prismjs and vanilla-js.([<u>source code</u>](https://github.com/jugalkpatel/Component_Library/tree/development))
 
 ### 📝 Blogs
 
@@ -51,32 +71,10 @@ I am a full-stack developer. i've previously worked as an frontend intern at [an
 - [Memoizing value with useMemo](https://jugal.hashnode.dev/2-memoizing-value-with-usememo)
 - [Memoizing a function definition with useCallback](https://jugal.hashnode.dev/3-memoizing-a-function-definition-with-usecallback)
 
-### 🛠️ My Projects
+### 📊 Github Stats
 
-- #### [Rices](https://rices-media.netlify.app/popular)
-
-  Rices is a forum-based social media application that helps you build communities, and share ideas, and interests.([<u>source code</u>](https://github.com/jugalkpatel/Social-Media/tree/development))
-
-  TechStack - Next.js, GraphQL(Apollo client), graphql-codegen, TypeScript, mantine, Prisma, PostgreSQL, GraphQL Nexus, Apollo-Server, Express, Typescript
-
-- #### [Liquiz](https://liquiz.netlify.app/)
-
-  Rices is a forum-based social media application that helps you build communities, and share ideas, and interests.([<u>source code</u>](https://github.com/jugalkpatel/Component_Library/tree/development))
-
-  TechStack - React, Typescript, Styled-components, formik, Node, Expess, Mongoose ODM, MongoDB
-
-- #### [TuxTV](https://tuxtv.netlify.app/)
-
-  Tux TV is an full-stack video-library app that contains video related to linux, vim, distors etc.([<u>source code</u>](https://github.com/jugalkpatel/Tux-TV/tree/development--frontend))
-
-  TechStack - React, JavaScript, HTML, CSS, Node, Expess, Mongoose ODM, MongoDB
-
-- #### [Verse](https://gpuverse.netlify.app/)
-
-  Verse is an e-commerce app for selling GPUs.([<u>source code</u>](https://github.com/jugalkpatel/E-commerce/tree/development--frontend))
-
-  TechStack - React, JavaScript, HTML, CSS, Node, Expess, Mongoose ODM, MongoDB
-
-- #### [Satori UI](https://satori-ui.netlify.app)
-
-  Component Library for personal projects built with html, css, prismjs and vanilla-js.([<u>source code</u>](https://github.com/jugalkpatel/Component_Library/tree/development))
+<a href='https://github.com/jugalkpatel/github-stats-transparent'>
+  
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=jugalkpatel&count_private=true&show_icons=true&theme=github_dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jugalkpatel&layout=compact&theme=github_dark)
+</a>
